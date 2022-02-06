@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomDevs</string>
+    <string name="text_description">Developer\'s name will appear here</string>
+</resources>
